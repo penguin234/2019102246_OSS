@@ -14,6 +14,7 @@ def Dan(num):
 def GuGu():
     Dan(1)
     Dan(2)
+    Dan(3) # added 3
     Dan(4) # I think something is missing
     Dan(5)
     Dan(6)
